@@ -11,7 +11,7 @@ import (
 	"strconv"
 
 	"github.com/galdor/go-program"
-	"github.com/galdor/go-thumbhash"
+	thumbhash "github.com/kheina-com/go-thumbhash"
 
 	"image/draw"
 	_ "image/jpeg"

@@ -1,4 +1,4 @@
-module github.com/galdor/go-thumbhash
+module github.com/kheina-com/go-thumbhash
 
 go 1.20
 
